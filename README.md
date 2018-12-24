@@ -9,3 +9,4 @@
 ###### 1. Javascript Drum kit
 ###### 2. Javascript and CSS clock
 ###### 3. Dynamic CSS with JS
+###### 4. Array function Practice
