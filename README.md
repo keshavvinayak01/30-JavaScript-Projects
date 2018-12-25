@@ -11,3 +11,5 @@
 ###### 3. Dynamic CSS with JS
 ###### 4. Array function Practice
 ###### 5. Flex Panels
+###### 6. City Finder
+###### 7. Array function Practice 2
