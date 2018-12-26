@@ -13,3 +13,4 @@
 ###### 5. Flex Panels
 ###### 6. City Finder
 ###### 7. Array function Practice 2
+###### 8. Canvas Practice
