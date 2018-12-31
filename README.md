@@ -14,3 +14,10 @@
 ###### 6. City Finder
 ###### 7. Array function Practice 2
 ###### 8. Canvas Practice
+###### 9. Canvas Practice
+###### 10. Check-list
+###### 11. Custom Video Player
+###### 12. Key Sequence Detection
+###### 13. Sliding images
+###### 14. Javascript references
+###### 15. LocalStorage
