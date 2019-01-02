@@ -21,3 +21,6 @@
 ###### 13. Sliding images
 ###### 14. Javascript references
 ###### 15. LocalStorage
+###### 16. Mouse Move shadow
+###### 17. Sorting without article
+###### 18. Adding up times
