@@ -24,3 +24,8 @@
 ###### 16. Mouse Move shadow
 ###### 17. Sorting without article
 ###### 18. Adding up times
+###### 19. WebCam fiddling
+###### 20. Speech Detection
+###### 22. Follow along links
+###### 23. Speech Synthesis
+###### 24. Sticky Nav Bar
