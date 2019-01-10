@@ -28,4 +28,8 @@
 ###### 20. Speech Detection
 ###### 22. Follow along links
 ###### 23. Speech Synthesis
-###### 24. Sticky Nav Bar
+###### 24. Sticky Navbar
+###### 25. Event Capture,bubbling,propagation and once
+###### 26. Follow along nav
+###### 27. Click and Drag
+###### 28. Video Speed Controller
